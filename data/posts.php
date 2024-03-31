@@ -20,7 +20,7 @@ $posts = [
     No entanto, os benefícios potenciais são enormes, 
     com oportunidades de carreira emocionantes e contribuições significativas para a sociedade.',
     'tags' => ['Algoritmos', 'Sistemas Operacionais', 'Desenvolvimento Web', 'Embarcados'],
-    'img' => 'prog-1.jpg'
+    'img' => 'pleg1.png'
 
   ],
   [
