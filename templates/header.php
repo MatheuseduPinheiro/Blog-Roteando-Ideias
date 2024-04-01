@@ -8,8 +8,9 @@ include_once("data/categories.php")
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="<?=$BASE_URL?>/js/index.js"defer></script>
 </head>
-    <link rel="stylesheet" href="<?=$BASE_URL ?>/css/style.css">
+    <link rel="stylesheet" href="<?=$BASE_URL?>/css/style.css">
    
     <title>Blog Roteando Ideias</title>
 </head>

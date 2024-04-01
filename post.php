@@ -12,7 +12,6 @@ if (isset($_GET['id'])) {
         }
     }
 }
-
 ?>
 <main id="post-container">
     <div class="content-container">
@@ -24,13 +23,13 @@ if (isset($_GET['id'])) {
         <p class="post-content"><?=$currentPost['text']?></p>
     </div>
     <aside id="nav-container">
-        <h3 id="tags-title">Tags</h3>
+        <h3 id="tags-title"src="<?= $BASE_URL ?>/js/index.js">Tags</h3>
         <ul id="tag-list">
             <?php foreach ($currentPost['tags'] as $tag) : ?>
                 <li><a href="#"><?= $tag ?></a></li>
             <?php endforeach; ?>
         </ul>
-        <h3 id="categories-title">Categorias</h3>
+        <h3 id="categories-title" src="<?= $BASE_URL ?>/js/index.js">Categorias</h3>
         <ul id="categories-list">
             <?php foreach ($categories as $category) : ?>
                 <li><a href="#"><?= $category ?></a></li>

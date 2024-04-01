@@ -10,6 +10,7 @@ include_once("templates/header.php");
         <?php foreach ($posts as $post) : ?>
             <div class="post-box">
                 <img src="<?= $BASE_URL ?>/img/<?= $post['img'] ?>" alt="<?= $post['title'] ?>">
+                <div class="arrow"></div>
                 <h2 class="post-title">
                     <a href="<?= $BASE_URL ?>post.php?id=<?= $post['id'] ?>"><?= $post['title'] ?></a>
                 </h2>
