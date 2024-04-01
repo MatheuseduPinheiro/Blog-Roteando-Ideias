@@ -43,7 +43,7 @@ $posts = [
     'id' => 3,
     'title' => 'Sistema Operacional OpenWrt.Uma Firmware que você deveria conhecer!',
     'description' => 'Aplicando Openwrt utilizando Captives Portais',
-    'text' => [' OpenWrt oferece uma gama de 
+    'text' => ' OpenWrt oferece uma gama de 
     recursos avançados para customização e gerenciamento de redes. 
     Ao aplicar Captive Portals, os administradores podem criar 
     experiências de acesso à internet 
@@ -55,8 +55,7 @@ $posts = [
     páginas específicas, coleta de dados do usuário e personalização da interface do portal.
     Portanto, a combinação do Sistema Operacional OpenWrt com a aplicação de 
     Captive Portals oferece uma solução poderosa e flexível para gerenciamento de redes Wi-Fi, 
-    agregando valor tanto para usuários finais quanto para administradores de rede.'
-  ],
+    agregando valor tanto para usuários finais quanto para administradores de rede.',
     'tags' => ['Algoritmos', 'Sistemas Operacionais', 'Desenvolvimento Web', 'Embarcados'],
     'img' => 'pleg3.png',
     'video' => 'captive-portal.mp4',
