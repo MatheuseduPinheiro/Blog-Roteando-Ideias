@@ -1,5 +1,7 @@
 # Blog Roteando Ideias
 
+No Blog Roteando Ideias, mergulho nos assuntos relevantes da minha graduação, compartilhando reflexões e aprendizados. Utilizando JavaScript, HTML, CSS, JS e PHP, explorei o teste de rotas com dados mocados, uma prática que não só fortaleceu minhas habilidades técnicas.
+
 ## Configuração
 
 Para executar este projeto localmente, é necessário configurar um ambiente de desenvolvimento. Siga as etapas abaixo para configurar seu ambiente usando XAMPP:
