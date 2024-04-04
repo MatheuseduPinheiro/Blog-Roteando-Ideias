@@ -1,6 +1,6 @@
 # Blog Roteando Ideias
 
-No Blog Roteando Ideias, mergulho nos assuntos relevantes da minha graduação, compartilhando reflexões e aprendizados. Utilizando JavaScript, HTML, CSS, JS e PHP, explorei o teste de rotas com dados mocados, uma prática que não só fortaleceu minhas habilidades técnicas.
+No Blog Roteando Ideias, mergulho nos assuntos relevantes da minha graduação, compartilhando reflexões e aprendizados. Utilizando JavaScript, HTML, CSS, JS e PHP, explorei o teste de rotas com dados mocados, uma prática que fortaleceu minhas habilidades técnicas.
 
 ## Configuração
 
